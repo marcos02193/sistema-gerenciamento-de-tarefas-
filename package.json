@@ -1,0 +1,24 @@
+{
+  "name": "sistema-gerenciamento-de-tarefas-",
+  "version": "1.0.0",
+  "description": "sistema gerenciamento de tarefas: trabalho 01 javascript amontada valley",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos02193/sistema-gerenciamento-de-tarefas-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos02193/sistema-gerenciamento-de-tarefas-/issues"
+  },
+  "homepage": "https://github.com/marcos02193/sistema-gerenciamento-de-tarefas-#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
